@@ -1,0 +1,7 @@
+python                      : eps 
+python OOP                  : eps 
+django                      : eps
+Numpy                       : eps
+Matplotlit                  : eps
+matlab - algoritma genetik  : eps
+matlab advanced             : eps
