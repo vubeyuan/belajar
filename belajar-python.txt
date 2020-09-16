@@ -1,4 +1,4 @@
-python                      : eps 
+python dasar                : eps 2a 
 python OOP                  : eps 
 django                      : eps
 Numpy                       : eps
