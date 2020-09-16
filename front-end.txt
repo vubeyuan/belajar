@@ -1,10 +1,10 @@
-html dasar : eps
-css  dasar : eps
-css layout : eps
-ccs3       : eps
+html dasar                    : eps
+css  dasar                    : eps
+css layout                    : eps
+ccs3                          : eps
 membuat frame work dengan css : eps
-flexbox    : eps
-css grid   : eps
-java script dasar : eps
-java script dan dom : eps
-java script lanjutan : eps 
+flexbox                       : eps
+css grid                      : eps
+java script dasar             : eps
+java script dan dom           : eps
+java script lanjutan          : eps 
