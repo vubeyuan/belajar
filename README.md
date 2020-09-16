@@ -1,2 +1,2 @@
-# belajar-
+# belajar
 belajar tiap hari
